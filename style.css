@@ -608,10 +608,10 @@ html,body{
   font-size: 1rem;
 }
 
-.html,.css {width: 90%; background-color: #4CAF50;} /* Green */
-.js,.pyt,.adobe{width: 65%; background-color: #f44336;} /* Red */
+.html,.css {width: 90%; background-color: black;} /* Green */
+.js,.pyt,.adobe{width: 65%; background-color: black;} /* Red */
 .boot,.micro,.ecl,.code,.git{width: 70%; background-color:yellow;color: black;} 
-.java,.jdbc,.my,.gith,.her {width: 75%; background-color:#2196F3;} 
+.java,.jdbc,.my,.gith,.her {width: 75%; background-color:black;} 
 
 
 
